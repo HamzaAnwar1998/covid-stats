@@ -15,7 +15,8 @@
   padding: 15px;
 }
 
-.logo{
+.link{
+  text-decoration: none;
   color: #453095;
   font-family: 'Patrick Hand', cursive;
 }
