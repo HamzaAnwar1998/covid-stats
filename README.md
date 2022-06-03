@@ -6,6 +6,10 @@
 
 ## [Live Demo - Firebase](https://covid-stats-debc3.web.app/)
 
+## Live Presentation Video
+
+[Link] (https://drive.google.com/file/d/11FyN6HoCryRhFSXvT-6vX2pJ5YoLUGds/view?usp=sharing)
+
 ## Built With
 
 * React
