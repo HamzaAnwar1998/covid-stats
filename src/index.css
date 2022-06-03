@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Poppins&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbox{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.logo{
+  color: #453095;
+  font-family: 'Patrick Hand', cursive;
+}
+
+.list{
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.list .item{
+  margin-right: 15px;
+}
+
+.cards-container{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
