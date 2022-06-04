@@ -15,7 +15,7 @@
   padding: 15px;
 }
 
-.link {
+.link, .link:hover {
   text-decoration: none;
   color: #453095;
   font-family: "Patrick Hand", cursive;
